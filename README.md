@@ -3,3 +3,5 @@ Bike Sales Project: Organized data and observed different variables that contrib
 Covid Data Project: Analyzed different global statistics during the peak of the Covid-19 epidemic (2020-2021). Visualized in Tableau.
 
 Netflix Data Project: Transformed and cleaned raw data that displayed all the content available on Netflix worldwide. Visualized in Tableau.
+
+Solid Waste Case Study: Actionable insights created using information from the City of Carrollton utility data from 1998.
