@@ -5,3 +5,5 @@ Covid Data Project: Analyzed different global statistics during the peak of the 
 Netflix Data Project: Transformed and cleaned raw data that displayed all the content available on Netflix worldwide. Visualized in Tableau.
 
 Solid Waste Case Study: Actionable insights created using information from the City of Carrollton utility data from 1998.
+
+Tableau: https://public.tableau.com/app/profile/nathan.batoba/vizzes
